@@ -1,0 +1,7 @@
+**************************************
+Dátum a čas hrania --> 23-05-2022 15:45:49
+Výhra
+Počet bômb v hre --> 28
+Počet políčok v hre --> 400
+Počet výbuchov --> 1
+Čas hrania --> 4 : 52
